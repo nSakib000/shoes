@@ -1,0 +1,35 @@
+header{
+    background-color: #FFF9F4;
+}
+span{
+    color: #FABE4C;
+}
+.buy-btn{
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #ffffff;
+    background-color: #4169e1;
+}
+h1.title{
+    font-weight: bold;
+    color: #363958;
+}
+h2.price{
+    color: #FA804C;
+}
+h5.card-title{
+    font-weight: bold;
+    color: #363958;
+}
+.card-jacket{
+ border-radius: 15px;
+}
+/* .card-img-top{
+    border-radius: 15px;
+    padding: 30px;
+    background-color: #F1F1F1;
+} */
+a.card-info.list-group-item.list-group-item-action{
+    border-radius: 15px;
+}
